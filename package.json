@@ -1,5 +1,5 @@
 {
-  "name": "LYT-grinder",
+  "name": "lyt-grinder",
   "version": "0.0.1",
   "description": "A simple concatenation and dependency management tool for CoffeeScript",
   "main": "index.js",
