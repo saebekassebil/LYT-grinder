@@ -3,11 +3,10 @@
   "version": "0.0.1",
   "description": "A simple concatenation and dependency management tool for CoffeeScript",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saebekassebil/LYT-grinder"
   },
-  "repository": "",
   "author": "Daniel Høier Øhrgaard",
-  "license": "MIT",
-  "readmeFilename": "README.md"
+  "license": "MIT"
 }
